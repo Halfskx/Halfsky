@@ -1,2 +1,2 @@
-# Halfsky
+# First Game
 Game 1
